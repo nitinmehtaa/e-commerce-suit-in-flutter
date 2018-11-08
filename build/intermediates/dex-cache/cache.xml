@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\flutter_SDK\flutter\bin\cache\artifacts\engine\android-arm-release\flutter.jar"
+        jumboMode="false"
+        min-sdk-version="16"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18c55b251294621be466e96e18631710114d3bc1">
+        <dex dex="C:\Users\user\Downloads\e-commerce-suit-in-flutter-master\e-commerce-suit-in-flutter-master\build\app\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>

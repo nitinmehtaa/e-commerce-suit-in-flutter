@@ -1,0 +1,4 @@
+#Thu Nov 08 13:38:27 IST 2018
+base.0=D\:\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\e-commerce-suit-in-flutter-master\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

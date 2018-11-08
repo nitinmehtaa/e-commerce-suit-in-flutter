@@ -1,0 +1,25 @@
+name: flutter_app_tablayout
+description: 'A new Flutter application.'
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  carousel_slider: ^0.0.7
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/img.png
+    - 'lib/assets/honor 10.png'
+    - 'lib/assets/iphone 6s.png'
+    - 'lib/assets/iphone 8.png'
+    - 'lib/assets/oppo f7.png'
+    - 'lib/assets/sports shoes.png'
+  fonts:
+    -
+      family: Billabong
+      fonts:
+        -
+          asset: lib/fonts/Billabong.ttf
