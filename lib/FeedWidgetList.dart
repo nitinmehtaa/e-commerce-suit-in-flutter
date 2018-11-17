@@ -1,28 +1,33 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app_tablayout/categories_collection.dart';
+import 'package:flutter_app_tablayout/CategoriesCollection.dart';
 import 'package:flutter_app_tablayout/CarouselDemo.dart';
 import 'package:flutter_app_tablayout/Dealsoftheday.dart';
 import 'package:flutter_app_tablayout/Single_brand_promotion.dart';
 
 //Feed page with a collection of multiple Widgets
-class feed_widgets_list extends StatelessWidget {
+class FeedWidgetList extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new ListView.builder(
         itemCount: 2,
         scrollDirection: Axis.vertical,
         itemBuilder: (context, index) => index == 0
-            ? new Categories_collection()
+            ? new CategoriesCollection()
             : Column(
                 mainAxisAlignment: MainAxisAlignment.start,
                 mainAxisSize: MainAxisSize.min,
                 crossAxisAlignment: CrossAxisAlignment.stretch,
                 children: <Widget>[
                     new Flexible(
-                        child: new Container(
-                            height: 170.0,
-                            child: new CarouselDemo(),
-                            color: Colors.white)),
+                        child: new Padding(
+                          padding: const EdgeInsets.all(1.0),
+                          child: new Container(
+                            alignment: Alignment.bottomCenter,
+                            height: 220.0,
+                            child: new Center(child: new CarouselDemo()),
+                            color: Colors.white)
+                        ),
+                            ),
                     new Flexible(
                         child: new Container(
                             height: 300.0,

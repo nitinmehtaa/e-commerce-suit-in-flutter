@@ -29,7 +29,7 @@ class _MyAppState extends State<MyApp> {
             primarySwatch: Colors.blue,
             primaryColor: defaultTargetPlatform == TargetPlatform.iOS
                 ? Colors.grey[50]
-                : null), //Theme Data
+                : Colors.blue), //Theme Data
         home: new HomePage(),
         routes: <String, WidgetBuilder>{
           "/electronics": (BuildContext context) => NewPage('Electronics'),
@@ -61,7 +61,7 @@ class HomePage extends StatelessWidget {
         titleSpacing: -2.0,
         backgroundColor: Colors.red[400],
         elevation: 0.0,
-        title: new Text('Instacart',
+        title: new Text('Shoppy',
                 style: new TextStyle(
                     color: Colors.white,
                     fontStyle: FontStyle.normal,
@@ -93,7 +93,7 @@ class HomePage extends StatelessWidget {
               accountName: new Text('Nitin Mehta',
                   style: new TextStyle(
                       fontSize: 18.0, fontWeight: FontWeight.bold)),
-              accountEmail: new Text('developer.account@apple.com',
+              accountEmail: new Text('developer.account@gmail.com',
                   style: new TextStyle(
                       fontSize: 15.0, fontWeight: FontWeight.normal)),
               currentAccountPicture: new CircleAvatar(
@@ -155,10 +155,15 @@ class HomePage extends StatelessWidget {
               leading: new Icon(Icons.account_box),
             ), //List Tile 9
             new ListTile(
+              title: new Text('Logout'),
+              leading: new Icon(Icons.remove_circle_outline),
+            ),
+            new ListTile(
               title: new Text('About us'),
               leading: new Icon(Icons.info),
             ), //List Tile 10
           ],
+          padding: EdgeInsets.zero,
         ), //parent ListView
       ), //parent Drawer
       body: new feed_body(), //Feed body

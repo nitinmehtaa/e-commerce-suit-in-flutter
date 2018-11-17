@@ -4,6 +4,8 @@ ADDED from D:\e-commerce\android\app\src\main\AndroidManifest.xml:1:1-39:12
 INJECTED from D:\e-commerce\android\app\src\main\AndroidManifest.xml:1:1-39:12
 INJECTED from D:\e-commerce\android\app\src\main\AndroidManifest.xml:1:1-39:12
 INJECTED from D:\e-commerce\android\app\src\main\AndroidManifest.xml:1:1-39:12
+MERGED from [:shared_preferences] D:\e-commerce\build\shared_preferences\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] D:\e-commerce\build\path_provider\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
 INJECTED from D:\e-commerce\android\app\src\main\AndroidManifest.xml:1:1-39:12
 INJECTED from D:\e-commerce\android\app\src\main\AndroidManifest.xml:1:1-39:12
 INJECTED from D:\e-commerce\android\app\src\main\AndroidManifest.xml:1:1-39:12
@@ -67,6 +69,10 @@ uses-sdk
 INJECTED from D:\e-commerce\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\e-commerce\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\e-commerce\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences] D:\e-commerce\build\shared_preferences\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] D:\e-commerce\build\shared_preferences\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\e-commerce\build\path_provider\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] D:\e-commerce\build\path_provider\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
 INJECTED from D:\e-commerce\android\app\src\main\AndroidManifest.xml
 INJECTED from D:\e-commerce\android\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion

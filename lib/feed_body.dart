@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_app_tablayout/feed_widgets_list.dart';
+import 'package:flutter_app_tablayout/FeedWidgetList.dart';
 
 
 class feed_body extends StatelessWidget {
@@ -32,7 +32,7 @@ class feed_body extends StatelessWidget {
                 )
             )),
         new Flexible(
-          child: feed_widgets_list(),
+          child: FeedWidgetList(),
         ),
       ],
     );
