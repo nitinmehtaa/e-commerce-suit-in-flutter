@@ -1,10 +1,44 @@
-# E-commerce app in Flutter
+# E-commerce Flutter App
 
-A small attempt to make an e-commerce user interface in Flutter for Android and iOS.
+A modern Flutter e-commerce application with a clean UI featuring product browsing, detailed product views, and checkout functionality.
 
-<a href="https://imgflip.com/gif/2ct5dc"><img src="https://i.imgflip.com/2ct5dc.gif" title="made at imgflip.com"/></a>
+![App Screenshots](screenshots/app-layout.png)
 
-## Getting Started
+## Features
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+- **Home Screen**: Browse products with category filters, search, and featured deals
+- **Product Detail**: View product details with size/color selection and add to cart
+- **Checkout**: Review cart items, manage quantities, and complete purchase
+
+## Quick Start
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Tech Stack
+
+- Flutter 3.10+
+- Riverpod (State Management)
+- GoRouter (Navigation)
+- DummyJSON API (Product Data)
+
+## Project Structure
+
+```
+lib/
+  app/                 # App shell + routing
+  features/            # Home, Product Detail, Cart
+  design_system/       # UI components (atoms/molecules/organisms)
+  data/                # API clients + repositories
+  domain/              # Entities + interfaces
+  config/              # App configuration
+```
+
+## Routes
+
+- `/` - Home page
+- `/product/:id` - Product detail
+- `/cart` - Checkout page
+- `/category/:id` - Category view
