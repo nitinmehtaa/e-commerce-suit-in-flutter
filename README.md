@@ -2,7 +2,8 @@
 
 A modern Flutter e-commerce application with a clean UI featuring product browsing, detailed product views, and checkout functionality.
 
-![App Screenshots](screenshots/app-layout.png)
+<img width="933" height="648" alt="Screenshot 2026-01-18 154617" src="https://github.com/user-attachments/assets/6920b9cf-9e4d-45d1-b30c-10f49515f6cb" />
+
 
 ## Features
 
