@@ -1,23 +1,29 @@
 name: flutter_app_tablayout
 description: 'A new Flutter application.'
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.10.0"
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^0.1.2
-  carousel_slider: ^0.0.7
-  cached_network_image: ^0.5.0
+  cupertino_icons: ^1.0.6
+  bootstrap_icons: ^1.11.3
+  carousel_slider: ^5.0.0
+  cached_network_image: ^3.3.1
+  flutter_riverpod: ^2.5.1
+  go_router: ^14.2.1
+  http: ^1.2.2
+  dynamic_color: ^1.7.0
+  google_fonts: ^7.0.2
+  flutter_svg: ^2.2.3
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_lints: ^3.0.1
 flutter:
   uses-material-design: true
   assets:
-    - lib/assets/img.png
-    - 'lib/assets/honor 10.png'
-    - 'lib/assets/iphone 6s.png'
-    - 'lib/assets/iphone 8.png'
-    - 'lib/assets/oppo f7.png'
-    - 'lib/assets/sports shoes.png'
+    - lib/assets/
   fonts:
     -
       family: Billabong

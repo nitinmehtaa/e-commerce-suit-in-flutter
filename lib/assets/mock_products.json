@@ -1,0 +1,580 @@
+{
+  "categories": [
+    "Mobiles",
+    "Fashion",
+    "Electronics",
+    "Home",
+    "Beauty"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "POCO C75 5G",
+      "description": "Segment's only 50MP camera, 5G ready with a smooth 120Hz display.",
+      "thumbnail": "http://localhost:3845/assets/0fec8d1fa398189e3eb6d96deef6124eb285eb66.png",
+      "price": 8299,
+      "rating": 4.2,
+      "category": "Mobiles",
+      "brand": "POCO",
+      "originalPrice": 10999,
+      "discountPercent": 25,
+      "imageUrls": [
+        "http://localhost:3845/assets/0fec8d1fa398189e3eb6d96deef6124eb285eb66.png",
+        "http://localhost:3845/assets/3a235c1f08c60630213ab89c315ff304fc4552a9.png",
+        "http://localhost:3845/assets/d62e3f624a72ed2e3ebdb83c74d327127a3929c8.png"
+      ],
+      "colorOptions": [
+        "Enchanted Green",
+        "Arctic Blue",
+        "Graphite"
+      ],
+      "variants": [
+        {
+          "label": "64 GB + 4 GB",
+          "price": 8299,
+          "originalPrice": 10999
+        },
+        {
+          "label": "128 GB + 4 GB",
+          "price": 8999,
+          "originalPrice": 11499
+        }
+      ],
+      "ratingCount": 147570,
+      "reviewCount": 8747,
+      "warrantyLabel": "1 Year Manufacturer Warranty for Phone and 6 Months for Accessories",
+      "exchangeOffer": {
+        "title": "Up to Rs 7,740",
+        "subtitle": "Select a product to exchange",
+        "actionLabel": "Apply"
+      },
+      "emiOffer": {
+        "title": "Instant EMI for Everyone",
+        "subtitle": "Approval in minutes | 100% digital",
+        "actionLabel": "Click for EMI"
+      },
+      "bankOffers": [
+        {
+          "title": "Rs 415 off",
+          "subtitle": "Flipkart Axis",
+          "badge": "Best value for you",
+          "actionLabel": "Apply"
+        },
+        {
+          "title": "Rs 415 off",
+          "subtitle": "Debit Card + Cashback",
+          "actionLabel": "Apply"
+        }
+      ],
+      "deliveryDetails": [
+        {
+          "title": "110032",
+          "subtitle": "Select delivery location",
+          "icon": "location"
+        },
+        {
+          "title": "Express Delivery by Tomorrow",
+          "subtitle": "Order in 02h 12m 00s",
+          "icon": "shipping"
+        },
+        {
+          "title": "Fulfilled by Truenet Commerce",
+          "subtitle": "4.5 star | 8 years with Flipkart",
+          "icon": "verified"
+        }
+      ],
+      "serviceHighlights": [
+        {
+          "title": "7-day brand support",
+          "subtitle": "Hassle-free assistance",
+          "icon": "support"
+        },
+        {
+          "title": "Cash on Delivery",
+          "subtitle": "Available at your pincode",
+          "icon": "cash"
+        },
+        {
+          "title": "Assured delivery",
+          "subtitle": "Genuine products",
+          "icon": "shield"
+        }
+      ],
+      "productHighlights": [
+        {
+          "title": "4 GB RAM | 64 GB ROM",
+          "subtitle": "Store up to 2000 photos",
+          "icon": "memory"
+        },
+        {
+          "title": "4s Gen 2 5G | Octa Core Processor",
+          "subtitle": "Powerful performance, no hang",
+          "icon": "chip"
+        },
+        {
+          "title": "50MP Rear Camera",
+          "subtitle": "Vibrant pictures, full of detail",
+          "icon": "camera"
+        },
+        {
+          "title": "6.88 inch HD+ Display",
+          "subtitle": "Big screen, fine viewing",
+          "icon": "display"
+        },
+        {
+          "title": "5160 mAh Battery",
+          "subtitle": "Lasts up to 2 days",
+          "icon": "battery"
+        }
+      ],
+      "reviewHighlights": [
+        {
+          "title": "Worth the money",
+          "subtitle": "Good",
+          "rating": 4.0
+        },
+        {
+          "title": "Good choice",
+          "subtitle": "Budget phone, great for daily use",
+          "rating": 4.0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Honor 10",
+      "description": "Compact performance phone with elegant design.",
+      "thumbnail": "http://localhost:3845/assets/3a235c1f08c60630213ab89c315ff304fc4552a9.png",
+      "price": 11999,
+      "rating": 4.1,
+      "category": "Mobiles",
+      "brand": "Honor",
+      "originalPrice": 14999,
+      "discountPercent": 20,
+      "imageUrls": [
+        "http://localhost:3845/assets/3a235c1f08c60630213ab89c315ff304fc4552a9.png",
+        "http://localhost:3845/assets/d62e3f624a72ed2e3ebdb83c74d327127a3929c8.png"
+      ],
+      "colorOptions": [
+        "Midnight Black",
+        "Ice Blue"
+      ],
+      "variants": [
+        {
+          "label": "64 GB + 4 GB",
+          "price": 11999,
+          "originalPrice": 14999
+        }
+      ],
+      "ratingCount": 48270,
+      "reviewCount": 3142,
+      "warrantyLabel": "1 Year Manufacturer Warranty",
+      "exchangeOffer": {
+        "title": "Up to Rs 5,500",
+        "subtitle": "Exchange old smartphone",
+        "actionLabel": "Apply"
+      },
+      "emiOffer": {
+        "title": "No-cost EMI",
+        "subtitle": "From Rs 667/month",
+        "actionLabel": "View plans"
+      },
+      "bankOffers": [
+        {
+          "title": "Rs 750 off",
+          "subtitle": "Bank of Baroda",
+          "badge": "Limited time",
+          "actionLabel": "Apply"
+        }
+      ],
+      "deliveryDetails": [
+        {
+          "title": "110032",
+          "subtitle": "Select delivery location",
+          "icon": "location"
+        },
+        {
+          "title": "Delivery by Wednesday",
+          "subtitle": "Order in 03h 02m 00s",
+          "icon": "shipping"
+        }
+      ],
+      "serviceHighlights": [
+        {
+          "title": "7-day brand support",
+          "subtitle": "Hassle-free assistance",
+          "icon": "support"
+        },
+        {
+          "title": "Cash on Delivery",
+          "subtitle": "Available at your pincode",
+          "icon": "cash"
+        }
+      ],
+      "productHighlights": [
+        {
+          "title": "5.84 inch FHD+ Display",
+          "subtitle": "Vivid colors and sharp text",
+          "icon": "display"
+        },
+        {
+          "title": "24MP AI Selfie Camera",
+          "subtitle": "Crisp portraits in any light",
+          "icon": "camera"
+        }
+      ],
+      "reviewHighlights": [
+        {
+          "title": "Design",
+          "subtitle": "Looks premium",
+          "rating": 4.2
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Oppo F7",
+      "description": "Selfie expert with fast performance and sleek build.",
+      "thumbnail": "http://localhost:3845/assets/d62e3f624a72ed2e3ebdb83c74d327127a3929c8.png",
+      "price": 13999,
+      "rating": 4.0,
+      "category": "Mobiles",
+      "brand": "Oppo",
+      "originalPrice": 17999,
+      "discountPercent": 22,
+      "imageUrls": [
+        "http://localhost:3845/assets/d62e3f624a72ed2e3ebdb83c74d327127a3929c8.png",
+        "http://localhost:3845/assets/573807652862f72349f8d9bc3636562ff6066e82.png"
+      ],
+      "colorOptions": [
+        "Solar Red",
+        "Moonlight Silver"
+      ],
+      "variants": [
+        {
+          "label": "64 GB + 4 GB",
+          "price": 13999,
+          "originalPrice": 17999
+        }
+      ],
+      "ratingCount": 32218,
+      "reviewCount": 2210,
+      "warrantyLabel": "1 Year Manufacturer Warranty",
+      "exchangeOffer": {
+        "title": "Up to Rs 6,200",
+        "subtitle": "Exchange old smartphone",
+        "actionLabel": "Apply"
+      },
+      "emiOffer": {
+        "title": "Instant EMI",
+        "subtitle": "Approval in minutes",
+        "actionLabel": "Apply"
+      },
+      "bankOffers": [
+        {
+          "title": "Rs 500 off",
+          "subtitle": "HDFC Debit Cards",
+          "actionLabel": "Apply"
+        }
+      ],
+      "deliveryDetails": [
+        {
+          "title": "110032",
+          "subtitle": "Select delivery location",
+          "icon": "location"
+        },
+        {
+          "title": "Express Delivery by Tomorrow",
+          "subtitle": "Order in 01h 20m 00s",
+          "icon": "shipping"
+        }
+      ],
+      "serviceHighlights": [
+        {
+          "title": "Cash on Delivery",
+          "subtitle": "Available at your pincode",
+          "icon": "cash"
+        }
+      ],
+      "productHighlights": [
+        {
+          "title": "25MP AI Selfie Camera",
+          "subtitle": "Sharper selfies, natural skin tones",
+          "icon": "camera"
+        },
+        {
+          "title": "Helio P60 Processor",
+          "subtitle": "Smooth multitasking",
+          "icon": "chip"
+        }
+      ],
+      "reviewHighlights": [
+        {
+          "title": "Selfie camera",
+          "subtitle": "Great for portraits",
+          "rating": 4.1
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "iPhone 6s",
+      "description": "Classic iPhone with compact design and reliable performance.",
+      "thumbnail": "http://localhost:3845/assets/573807652862f72349f8d9bc3636562ff6066e82.png",
+      "price": 15999,
+      "rating": 4.4,
+      "category": "Electronics",
+      "brand": "Apple",
+      "originalPrice": 19999,
+      "discountPercent": 20,
+      "imageUrls": [
+        "http://localhost:3845/assets/573807652862f72349f8d9bc3636562ff6066e82.png",
+        "http://localhost:3845/assets/0fec8d1fa398189e3eb6d96deef6124eb285eb66.png"
+      ],
+      "colorOptions": [
+        "Space Gray",
+        "Rose Gold"
+      ],
+      "variants": [
+        {
+          "label": "64 GB",
+          "price": 15999,
+          "originalPrice": 19999
+        }
+      ],
+      "ratingCount": 93210,
+      "reviewCount": 11230,
+      "warrantyLabel": "1 Year Manufacturer Warranty",
+      "exchangeOffer": {
+        "title": "Up to Rs 9,000",
+        "subtitle": "Exchange old smartphone",
+        "actionLabel": "Apply"
+      },
+      "emiOffer": {
+        "title": "No-cost EMI",
+        "subtitle": "From Rs 1,334/month",
+        "actionLabel": "View plans"
+      },
+      "bankOffers": [
+        {
+          "title": "Rs 1,500 off",
+          "subtitle": "ICICI Credit Cards",
+          "badge": "Trending",
+          "actionLabel": "Apply"
+        }
+      ],
+      "deliveryDetails": [
+        {
+          "title": "110032",
+          "subtitle": "Select delivery location",
+          "icon": "location"
+        },
+        {
+          "title": "Delivery by Friday",
+          "subtitle": "Order in 05h 44m 00s",
+          "icon": "shipping"
+        }
+      ],
+      "serviceHighlights": [
+        {
+          "title": "Assured delivery",
+          "subtitle": "100% genuine products",
+          "icon": "shield"
+        }
+      ],
+      "productHighlights": [
+        {
+          "title": "12MP Rear Camera",
+          "subtitle": "Clear photos in daylight",
+          "icon": "camera"
+        },
+        {
+          "title": "A9 Chip",
+          "subtitle": "Smooth daily performance",
+          "icon": "chip"
+        }
+      ],
+      "reviewHighlights": [
+        {
+          "title": "Performance",
+          "subtitle": "Still fast for daily use",
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Stylish Sports Shoes",
+      "description": "Lightweight sports shoes for everyday comfort.",
+      "thumbnail": "lib/assets/sports shoes.png",
+      "price": 2299,
+      "rating": 4.3,
+      "category": "Fashion",
+      "brand": "ActiveX",
+      "originalPrice": 3299,
+      "discountPercent": 30,
+      "imageUrls": [
+        "lib/assets/sports shoes.png",
+        "lib/assets/img.png"
+      ],
+      "colorOptions": [
+        "Black",
+        "Blue"
+      ],
+      "variants": [
+        {
+          "label": "Size 8",
+          "price": 2299,
+          "originalPrice": 3299
+        },
+        {
+          "label": "Size 9",
+          "price": 2299,
+          "originalPrice": 3299
+        }
+      ],
+      "ratingCount": 21450,
+      "reviewCount": 1830,
+      "warrantyLabel": "7 Days Replacement",
+      "exchangeOffer": {
+        "title": "Up to Rs 300",
+        "subtitle": "Exchange eligible footwear",
+        "actionLabel": "Apply"
+      },
+      "emiOffer": {
+        "title": "Pay Later",
+        "subtitle": "No cost for 15 days",
+        "actionLabel": "Activate"
+      },
+      "bankOffers": [
+        {
+          "title": "10% cashback",
+          "subtitle": "Wallet payment",
+          "actionLabel": "Apply"
+        }
+      ],
+      "deliveryDetails": [
+        {
+          "title": "110032",
+          "subtitle": "Select delivery location",
+          "icon": "location"
+        },
+        {
+          "title": "Delivery by Tuesday",
+          "subtitle": "Order in 04h 10m 00s",
+          "icon": "shipping"
+        }
+      ],
+      "serviceHighlights": [
+        {
+          "title": "7-day brand support",
+          "subtitle": "Easy returns",
+          "icon": "support"
+        }
+      ],
+      "productHighlights": [
+        {
+          "title": "Breathable mesh upper",
+          "subtitle": "Keeps feet cool",
+          "icon": "fabric"
+        },
+        {
+          "title": "EVA midsole",
+          "subtitle": "Comfortable cushioning",
+          "icon": "shoe"
+        }
+      ],
+      "reviewHighlights": [
+        {
+          "title": "Comfort",
+          "subtitle": "Very comfortable for walks",
+          "rating": 4.3
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Classic Vanity Mirror",
+      "description": "Minimal mirror with bright LED glow for daily grooming.",
+      "thumbnail": "lib/assets/img.png",
+      "price": 1499,
+      "rating": 4.0,
+      "category": "Beauty",
+      "brand": "Glow",
+      "originalPrice": 1999,
+      "discountPercent": 25,
+      "imageUrls": [
+        "lib/assets/img.png"
+      ],
+      "colorOptions": [
+        "White",
+        "Rose Pink"
+      ],
+      "variants": [
+        {
+          "label": "Standard",
+          "price": 1499,
+          "originalPrice": 1999
+        }
+      ],
+      "ratingCount": 7420,
+      "reviewCount": 620,
+      "warrantyLabel": "6 Months Warranty",
+      "exchangeOffer": {
+        "title": "Up to Rs 200",
+        "subtitle": "Exchange old accessories",
+        "actionLabel": "Apply"
+      },
+      "emiOffer": {
+        "title": "Pay Later",
+        "subtitle": "No cost for 30 days",
+        "actionLabel": "Activate"
+      },
+      "bankOffers": [
+        {
+          "title": "Flat Rs 150 off",
+          "subtitle": "Credit card payment",
+          "actionLabel": "Apply"
+        }
+      ],
+      "deliveryDetails": [
+        {
+          "title": "110032",
+          "subtitle": "Select delivery location",
+          "icon": "location"
+        },
+        {
+          "title": "Delivery by Thursday",
+          "subtitle": "Order in 06h 40m 00s",
+          "icon": "shipping"
+        }
+      ],
+      "serviceHighlights": [
+        {
+          "title": "Assured delivery",
+          "subtitle": "Genuine products",
+          "icon": "shield"
+        }
+      ],
+      "productHighlights": [
+        {
+          "title": "LED glow ring",
+          "subtitle": "Even lighting for grooming",
+          "icon": "bulb"
+        },
+        {
+          "title": "Touch controls",
+          "subtitle": "Adjustable brightness",
+          "icon": "touch"
+        }
+      ],
+      "reviewHighlights": [
+        {
+          "title": "Brightness",
+          "subtitle": "Nice and even light",
+          "rating": 4.0
+        }
+      ]
+    }
+  ]
+}
